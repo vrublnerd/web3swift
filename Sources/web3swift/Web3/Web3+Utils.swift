@@ -4138,7 +4138,11 @@ extension Web3.Utils {
                 "type": "address"
             },
             {
-                "name": "tokenId",
+                "name": "id",
+                "type": "uint256"
+            },
+            {
+                "name": "value",
                 "type": "uint256"
             }
         ],
@@ -4342,7 +4346,11 @@ extension Web3.Utils {
                 "type": "address"
             },
             {
-                "name": "tokenId",
+                "name": "id",
+                "type": "uint256"
+            },
+            {
+                "name": "value",
                 "type": "uint256"
             },
             {
